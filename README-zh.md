@@ -8,7 +8,7 @@
 [English](https://github.com/Andoromeda-Foundation/cryptohero-frontend/blob/master/README.md) | [Chinese](https://github.com/Andoromeda-Foundation/cryptohero-frontend/blob/master/README-zh.md) | [Japanese](https://github.com/Andoromeda-Foundation/cryptohero-frontend/blob/master/README-jp.md)
 
 # 关于本项目的开源声明
-本项目是一个 Vue.js 项目，该项目公开于2018年3月9日。该项目目前可被访问和fork。
+本项目是一个 Vue.js 项目，该项目公开于 2018 年 3 月 9 日。该项目目前可被访问和 fork。
 
 # 环境配置
 
@@ -47,8 +47,8 @@ npm run deploy
 
 开始你在以太水浒世界中的征途你需要：
 
-*   安装有Chrome或者Firefox桌面版本的计算机或笔记本电脑；
-*   安装MetaMask，专门与网页应用共同使用的数字钱包；
+*   安装有 Chrome 或者 Firefox 桌面版本的计算机或笔记本电脑；
+*   安装 MetaMask，专门与网页应用共同使用的数字钱包；
 *   以太币，为以太水浒提供支持的数字货币。
 
 ### 2.安装MetaMask数字钱包
