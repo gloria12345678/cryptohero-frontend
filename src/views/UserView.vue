@@ -34,8 +34,7 @@
 <script>
 import ItemList from '@/components/ItemList';
 import { getItemsOf } from '@/api';
-import getAvatarFromAddress from 'dravatar'
-  ;
+import getAvatarFromAddress from 'dravatar';
 
 export default {
   name: 'UserView',
